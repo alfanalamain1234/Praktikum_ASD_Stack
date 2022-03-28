@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646198130 source:c:\users\asus\documents\kuliah 2022\tugas 2022\praktikum  asd\p. 2\p3. 3asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
